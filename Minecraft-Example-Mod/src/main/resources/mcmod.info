@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shiffmanmod",
+  "name": "Shiffman Mod",
+  "description": "Here I am making a mod!.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Daniel Shiffman"],
+  "credits": "Special thanks to Elias",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
